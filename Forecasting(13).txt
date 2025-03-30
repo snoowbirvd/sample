@@ -1,0 +1,1252 @@
+Forecasting
+
+Process Planning
+Longrange
+
+Strategic Capacity Planning
+
+Intermediaterange
+Manufacturing
+
+Aggregate Planning
+Services
+
+Master Production Scheduling
+Material Requirements Planning
+Order Scheduling
+Shortrange
+
+Weekly Workforce &
+Customer Scheduling
+Daily Workforce &
+Customer Scheduling
+
+Relationships of Aggregate Production Planning
+
+Forecast &
+Firm Orders
+
+Material
+Requirements
+Planning
+
+Aggregate
+Production
+Planning
+
+Resource
+Availability
+Work force
+Inventory
+Subcontractors
+
+Master
+Production
+Scheduling
+
+No, modify CRP, MRP, or MPS
+Capacity
+Requirements
+Planning
+
+Realistic?
+
+Yes
+
+Shop
+Floor
+Schedules
+
+Learning Objectives
+When you complete this chapter you
+should be able to:
+▸Syntensize the three time horizons and
+which models apply for each use
+▸Explain when to use each of the four
+qualitative models
+▸Apply the naive, moving average,
+exponential smoothing, and trend methods
+
+Learning Objectives
+When you complete this chapter
+you should be able to:
+▸Compute three measures of forecast
+accuracy
+
+What is Forecasting?
+▸Process of predicting a future
+event
+▸Underlying basis
+of all business decisions
+▹Production
+▹Inventory
+▹Personnel
+▹Facilities
+
+??
+
+Forecasting Time Horizons
+ Short-range forecast
+ Up to 1 year, generally less than 3 months
+ Purchasing, job scheduling, workforce levels, job assignments,
+production levels
+
+ Medium-range forecast
+ 3 months to 3 years
+ Sales and production planning, budgeting
+
+ Long-range forecast
+ 3+ years
+ New product planning, facility location, research and
+development
+
+Distinguishing Differences
+ Medium/long range forecasts deal with more
+comprehensive issues and support management
+decisions regarding planning and products, plants
+and processes
+ Short-term forecasting usually employs different
+methodologies than longer-term forecasting
+ Short-term forecasts tend to be more accurate than
+longer-term forecasts
+
+Influence of Product Life Cycle
+Introduction – Growth – Maturity – Decline
+
+ Introduction and growth require longer
+forecasts than maturity and decline
+ As product passes through life cycle,
+forecasts are useful in projecting
+ Staffing levels
+ Inventory levels
+ Factory capacity
+
+Product Life Cycle
+
+Types of Forecasts
+ Economic forecasts
+ Address business cycle – inflation rate,
+money supply, housing starts, etc.
+
+ Technological forecasts
+ Predict rate of technological progress
+ Impacts development of new products
+
+ Demand forecasts
+ Predict sales of existing products and services
+
+Strategic Importance of Forecasting
+ Human Resources – Hiring, training, laying off
+workers
+ Capacity – Capacity shortages can result in
+undependable delivery, loss of customers, loss
+of market share
+ Supply Chain Management – Good supplier
+relations and price advantages
+
+Seven Steps in Forecasting
+1. Determine the use of the forecast
+2. Select the items to be forecasted
+3. Determine the time horizon of the
+forecast
+4. Select the forecasting model(s)
+5. Gather the data
+6. Make the forecast
+7. Validate and implement results
+
+The Realities!
+ Forecasts are seldom perfect
+
+ Most techniques assume an
+underlying stability in the system
+ Product family and aggregated
+forecasts are more accurate than
+individual product forecasts
+
+Forecasting Approaches
+Qualitative Methods
+
+ Used when situation is vague and little
+data exist
+ New products
+ New technology
+
+ Involves intuition, experience
+ e.g., forecasting sales on Internet
+
+Forecasting Approaches
+Quantitative Methods
+
+ Used when situation is ‘stable’ and
+historical data exist
+ Existing products
+ Current technology
+
+ Involves mathematical techniques
+ e.g., forecasting sales of SMART TV
+
+Overview of Qualitative Methods
+1. Jury of executive opinion
+ Pool opinions of high-level experts,
+sometimes augment by statistical
+models
+
+2. Delphi method
+ Panel of experts, queried iteratively
+
+Overview of Qualitative Methods
+3. Sales force composite
+ Estimates from individual
+salespersons are reviewed for
+reasonableness, then aggregated
+
+4. Consumer Market Survey
+ Ask the customer
+
+Jury of Executive Opinion
+ Involves small group of high-level experts and
+managers
+ Group estimates demand by working together
+ Combines managerial experience with statistical
+models
+ Relatively quick
+
+ ‘Group-think’
+disadvantage
+
+Sales Force Composite
+ Each salesperson projects his or her
+sales
+ Combined at district and national
+levels
+ Sales reps know customers’ wants
+ Tends to be overly optimistic
+
+Delphi Method
+ Iterative group process, continues until
+consensus is reached
+ 3 types of participants
+ Decision makers
+ Staff
+Staff
+ Respondents (Administering
+survey)
+
+Decision
+Makers
+(Evaluate
+responses and
+make decisions)
+
+Respondents
+
+(People who can make
+valuable judgments)
+
+Consumer Market Survey
+ Ask customers about purchasing
+plans
+ What consumers say, and what they
+actually do are often different
+ Sometimes difficult to answer
+
+Quantitative Approaches: Time- Series
+Models
+
+1. Naive approach
+2. Moving averages
+3. Exponential smoothing
+
+Time Series Forecasting
+ Set of evenly spaced numerical data
+ Obtained by observing response variable at
+regular time periods
+
+ Forecast based only on past values, no
+other variables important
+ Assumes that factors influencing past and
+present will continue influence in future
+
+Time Series Components
+Trend
+
+Cyclical
+
+Seasonal
+
+Random
+
+Trend Component
+ Persistent, overall upward or
+downward pattern
+ Changes due to population, technology,
+age, culture, etc.
+ Typically several years duration
+
+Seasonal Component
+
+ Regular pattern of up and
+down fluctuations
+ Due to weather, customs,
+etc.
+ Occurs within a single
+year
+
+Period
+Week
+Month
+Month
+Year
+Year
+Year
+
+Number of
+Length
+Seasons
+Day
+7
+Week
+4-4.5
+Day
+28-31
+Quarter
+4
+Month
+12
+Week
+52
+
+Cyclical Component
+ Repeating up and down movements
+ Affected by business cycle, political, and
+economic factors
+ Multiple years duration
+ Often causal or
+associative
+relationships
+0
+
+5
+
+10
+
+15
+
+20
+
+Random Component
+ Erratic, unsystematic, ‘residual’
+fluctuations
+ Due to random variation or unforeseen
+events
+ Short duration
+and nonrepeating
+M
+
+T
+
+W
+
+T
+
+F
+
+Naive Approach
+ Assumes demand in next
+period is the same as
+demand in most recent period
+ e.g., If January sales were 68, then
+February sales will be 68
+
+ Sometimes cost effective and efficient
+ Can be good starting point
+
+Moving Average Method
+ MA is a series of arithmetic means
+ Used if little or no trend
+ Used often for smoothing
+ Provides overall impression of data over time
+
+32
+
+Sample
+▸Donna’s Garden
+Supply wants a 3month movingaverage forecast,
+including a
+forecast for next
+January, for shed
+sales.
+
+Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+Actual Shed Sales
+10
+12
+13
+16
+19
+23
+26
+30
+28
+18
+16
+14
+
+Moving Average Example
+Month
+January
+February
+March
+April
+May
+June
+July
+
+Actual
+Shed Sales
+10
+12
+13
+16
+19
+23
+26
+
+3-Month
+Moving Average
+
+(10 + 12 + 13)/3 = 11 2/3
+(12 + 13 + 16)/3 = 13 2/3
+(13 + 16 + 19)/3 = 16
+(16 + 19 + 23)/3 = 19 1/3
+
+Shed Sales
+
+Graph of Moving Average
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Moving Average
+Forecast
+Actual Sales
+
+|
+J
+
+|
+F
+
+|
+M
+
+|
+A
+
+|
+M
+
+|
+J
+
+|
+J
+
+|
+A
+
+|
+S
+
+|
+O
+
+|
+N
+
+|
+D
+
+Weighted Moving Average
+ Used when some trend might be
+present
+ Older data usually less important
+
+ Weights based on experience and
+intuition
+
+Weights Applied
+3
+2
+1
+6
+
+Period
+Last month
+Two months ago
+Three months ago
+Sum of weights
+
+Weighted Moving Average
+
+Month
+
+Actual
+Shed Sales
+
+3-Month Weighted
+Moving Average
+
+January
+February
+March
+April
+May
+June
+July
+
+10
+12
+13
+16
+19
+23
+26
+
+[(3 x 13) + (2 x 12) + (10)]/6 = 121/6
+[(3 x 16) + (2 x 13) + (12)]/6 = 141/3
+[(3 x 19) + (2 x 16) + (13)]/6 = 17
+[(3 x 23) + (2 x 19) + (16)]/6 = 201/2
+
+Potential Problems With
+Moving Average
+
+ Increasing n smooths the forecast
+but makes it less sensitive to
+changes
+ Do not forecast trends well
+ Require extensive historical data
+
+Moving Average And
+Weighted Moving Average
+
+Sales demand
+
+30 –
+
+Weighted
+moving
+average
+
+25 –
+20 –
+15 –
+
+Actual
+sales
+Moving
+average
+
+10 –
+5 –
+
+|
+J
+
+|
+F
+
+|
+M
+
+| |
+A M
+
+|
+J
+
+|
+J
+
+|
+A
+
+|
+S
+
+|
+O
+
+|
+N
+
+|
+D
+
+Exponential Smoothing
+ Form of weighted moving average
+ Weights decline exponentially
+ Most recent data weighted most
+
+ Requires smoothing constant (α)
+ Ranges from 0 to 1
+ Subjectively chosen
+
+ Involves little record keeping of past
+data
+
+Exponential Smoothing
+New forecast = Last period’s forecast
++ a (Last period’s actual demand
+– Last period’s forecast)
+Ft = Ft – 1 + a(At – 1 - Ft – 1)
+where
+
+Ft =
+Ft – 1 =
+a =
+
+new forecast
+previous forecast
+smoothing (or weighting)
+constant (0 ≤ a ≤ 1)
+
+Exponential Smoothing Example
+In January, a car dealer predicted February
+demand for 142 Ford Mustangs. Actual February
+demand was 153 autos. Using a smoothing
+constant chosen by management of a = .20, the
+dealer wants to forecast March demand using the
+exponential smoothing model.
+
+Exponential Smoothing Example
+
+Predicted demand = 142 Ford Mustangs
+Actual demand = 153
+Smoothing constant a = .20
+
+Exponential Smoothing Example
+
+Predicted demand = 142 Ford Mustangs
+Actual demand = 153
+Smoothing constant a = .20
+
+New forecast
+
+= 142 + .2(153 – 142)
+
+Exponential Smoothing Example
+Predicted demand = 142 Ford Mustangs
+Actual demand = 153
+Smoothing constant a = .20
+
+New forecast = 142 + .2(153 – 142)
+= 142 + 2.2
+= 144.2 ≈ 144 cars
+
+Effect of Smoothing Constants
+
+Demand
+
+Impact
+of
+Different
+
+225 –
+ = .5
+
+Actual
+demand
+
+200 –
+
+175 –
+ = .1
+
+150 – |
+1
+
+|
+2
+
+|
+3
+
+|
+4
+
+|
+|
+5
+6
+Quarter
+
+|
+7
+
+|
+8
+
+|
+9
+
+Impact
+of
+Different
+
+225 –
+ = .5
+
+Actual
+demand
+
+Demand
+
+ 200
+Chose
+high values of  when
+–
+underlying average is likely
+to change
+175 –
+
+ Choose low values of 
+when underlying average is
+stable
+|
+|
+|
+|
+150
+– |
+1
+
+2
+
+3
+
+4
+
+5
+Quarter
+
+ = .1
+
+|
+6
+
+|
+7
+
+|
+8
+
+|
+9
+
+Choosing a Model
+The objective is to obtain the most accurate
+forecast no matter the technique
+We generally do this by selecting the model that
+gives us the lowest forecast error
+
+Forecast error = Actual demand - Forecast value
+= At - Ft
+
+Common Measures of Error
+Mean Absolute Deviation (MAD)
+MAD =
+
+∑ |Actual - Forecast|
+n
+
+Mean Squared Error (MSE)
+MSE =
+
+∑ (Forecast Errors)2
+n
+
+Common Measures of Error
+Mean Absolute Percent Error (MAPE)
+n
+
+∑ 100(|Actuali - Forecasti|/Actuali)
+
+MAPE =
+
+i=1
+
+n
+
+Comparison of Forecast Error
+Example Choosing an 
+Quarter
+
+Actual
+Tonnage
+Unloaded
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+180
+168
+159
+175
+190
+205
+180
+182
+
+Rounded
+Forecast
+with
+a = .10
+
+Absolute
+Deviation
+for
+a = .10
+
+175
+175.5
+174.75
+173.18
+173.36
+175.02
+178.02
+178.22
+
+5.00
+7.50
+15.75
+1.82
+16.64
+29.98
+1.98
+3.78
+82.45
+
+Rounded
+Forecast
+with
+a = .50
+
+175
+177.50
+172.75
+165.88
+170.44
+180.22
+192.61
+186.30
+
+Absolute
+Deviation
+for
+a = .50
+
+5.00
+9.50
+13.75
+9.12
+19.56
+24.78
+12.61
+4.30
+98.62
+
+Comparison of Forecast Error
+Rounded
+Absolute
+Actual
+Forecast
+Deviation
+∑ |deviations|
+Tonnage
+with
+for
+Quarter =Unloaded
+a = .10
+a = .10
+MAD
+
+n
+
+1
+180
+175
+5.00
+For2 a = .10168
+175.5
+7.50
+3
+=159
+82.45/8174.75
+= 10.31 15.75
+4
+175
+173.18
+1.82
+For5 a = .50190
+173.36
+16.64
+=205
+98.62/8175.02
+= 12.33 29.98
+6
+7
+180
+178.02
+1.98
+8
+182
+178.22
+3.78
+82.45
+
+Rounded
+Forecast
+with
+a = .50
+
+175
+177.50
+172.75
+165.88
+170.44
+180.22
+192.61
+186.30
+
+Absolute
+Deviation
+for
+a = .50
+
+5.00
+9.50
+13.75
+9.12
+19.56
+24.78
+12.61
+4.30
+98.62
+
+Comparison of Forecast Error
+Rounded
+Absolute
+2
+Actual
+Forecast
+Deviation
+∑
+(forecast
+errors)
+Tonnage
+with
+for
+MSE
+=
+Quarter Unloaded
+a = .10
+a = .10
+
+n
+
+1
+180
+175
+5.00
+For
+2 a = .10
+168
+175.5
+7.50
+= 1,526.54/8
+= 190.8215.75
+3
+159
+174.75
+4
+175
+173.18
+1.82
+For
+5 a = .50
+190
+173.36
+16.64
+= 1,561.91/8
+= 195.24
+6
+205
+175.02
+29.98
+7
+180
+178.02
+1.98
+8
+182
+178.22
+3.78
+82.45
+MAD
+10.31
+
+Rounded
+Forecast
+with
+a = .50
+
+175
+177.50
+172.75
+165.88
+170.44
+180.22
+192.61
+186.30
+
+Absolute
+Deviation
+for
+a = .50
+
+5.00
+9.50
+13.75
+9.12
+19.56
+24.78
+12.61
+4.30
+98.62
+12.33
+
+Comparison of Forecast Error
+n
+Rounded
+Absolute
+Rounded
+Actual 100|deviation
+Forecast
+Deviation
+Forecast
+|/actual
+i
+iwith
+with
+for
+MAPETonnage
+= i=1
+Quarter Unloaded
+a = .10 n
+a = .10
+a = .50
+
+∑
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+For
+For
+
+180
+a168=
+159
+175
+a190=
+205
+180
+182
+
+175
+5.00
+.10 175.5
+7.50
+174.75 = 5.59%
+15.75
+= 44.75/8
+173.18
+1.82
+.50 173.36
+16.64
+= 54.05/8
+175.02 = 6.76%
+29.98
+178.02
+1.98
+178.22
+3.78
+82.45
+MAD
+10.31
+
+175
+177.50
+172.75
+165.88
+170.44
+180.22
+192.61
+186.30
+
+Absolute
+Deviation
+for
+a = .50
+
+5.00
+9.50
+13.75
+9.12
+19.56
+24.78
+12.61
+4.30
+98.62
+12.33
+
+Comparison of Forecast Error
+Quarter
+
+Actual
+Tonnage
+Unloaded
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+180
+168
+159
+175
+190
+205
+180
+182
+
+Rounded
+Forecast
+with
+a = .10
+
+Absolute
+Deviation
+for
+a = .10
+
+175
+175.5
+174.75
+173.18
+173.36
+175.02
+178.02
+178.22
+
+5.00
+7.50
+15.75
+1.82
+16.64
+29.98
+1.98
+3.78
+82.45
+10.31
+190.82
+5.59%
+
+MAD
+MSE
+MAPE
+
+Rounded
+Forecast
+with
+a = .50
+
+175
+177.50
+172.75
+165.88
+170.44
+180.22
+192.61
+186.30
+
+Absolute
+Deviation
+for
+a = .50
+
+5.00
+9.50
+13.75
+9.12
+19.56
+24.78
+12.61
+4.30
+98.62
+12.33
+195.24
+6.76%
+
+

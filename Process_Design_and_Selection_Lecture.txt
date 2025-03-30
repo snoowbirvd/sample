@@ -1,0 +1,394 @@
+Process Design and
+Selection
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Introduction
+to Process
+Strategies
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Decisions
+•
+
+•
+
+Involve determining how to produce a
+product or provide a service
+Objective
+–
+
+–
+
+•
+
+Meet or exceed customer requirements
+Meet cost & managerial goals
+
+Has long-run effects
+–
+–
+
+Product & volume flexibility
+Costs & quality
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+3
+
+Spectrum of Manufacturing
+Processes
+• JOB SHOP (jumbled flow)
+• BATCH FLOW
+• WORKER-PACED LINE FLOW (operatorpaced line flow)
+• MACHINE-PACED LINE FLOW
+(equipment-paced line flow)
+• CONTINUOUS FLOW
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+4
+
+Comparison and Analysis Framework
+for Manufacturing Processes
+•
+•
+•
+•
+•
+•
+
+Product features
+General process features
+Materials-oriented features
+Information-oriented features
+Labor-oriented features
+Management features
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+5
+
+Selecting a
+Process
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Factors Affecting Process Alternatives
+
+•
+
+Production flexibility
+–
+–
+
+•
+
+•
+•
+•
+
+•
+
+Product volume
+Product variety
+
+These factors
+reduce the number
+of alternatives!
+
+Technology
+Cost
+Human resources
+Quality
+Reliability
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+7
+
+© 1984-1994 T/Maker Co.
+
+PROCESS CHOICE
+• Trade-off between flexibility and cost
+• Flexible producers may be capable of
+providing product bundles at prices
+competing with low-cost producers
+• Low-cost producers may be able to offer
+enough customization to compete with
+flexible producers
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+8
+
+PROCESS TYPE CHOICES
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+9
+
+PROCESS DESIGN FACTORS
+AND THE PROCESS TYPE
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+10
+
+Process Investment Evaluation
+•
+
+Long-term factors
+–
+–
+–
+–
+
+•
+
+Fit with company strategic plan
+Competitive advantage
+Product life cycle
+Operating factors (e.g., scrap, training)
+
+Financial return
+–
+–
+
+Break-even analysis
+Cash flow analysis (IRR, NPV)
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+11
+
+Designing
+Service Operations
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Service Operations
+CHARACTERISTICS:
+✓ Service provided is often intangible - such as
+ambiance, information, or peace of mind.
+✓ Service is often created and delivered on the spot
+with significant involvement of the customer.
+✓ Hence, marketing and operations are interdependent.
+✓ Consumption of a service is often nearly
+simultaneous with its production.
+✓ Barriers to entry are lower; so are barriers to exit service strategies are more “ hit-and-run”.
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+13
+
+Some Definitions
+• CUSTOMER CONTACT - the physical presence of
+the customer in the service system.
+• EXTENT OF CONTACT - the amount of time (or
+percentage of time) the customer must be in the
+system relative to the total time it takes to perform the
+service.
+• CREATION OF SERVICE - the work process
+involved in providing the service itself.
+The greater the percentage of contact time between the
+customer and the service system, the greater the
+degree of interaction between the two during the
+production process.
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+14
+
+SERVICE BLUEPRINTING
+• Blueprint the service:
+– service delivery process flowchart
+
+• Identify customer contact points and
+reduce contact where appropriate
+• Improve the quality of contact
+• Improve efficiency in low-contact
+operations
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+15
+
+Three Notions in a Service
+Operation
+
+1. SERVICE CONCEPT
+- What a business provides the
+customer
+- Defines the fundamental nature of the
+business
+Answers the question:
+What is it about the service the
+customer values?
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+16
+
+Three Notions in a Service
+Operation
+2. SERVICE LEVEL
+Any measure applied to the process that
+indicates its quality.
+May be:
+- Time to process order
+- Instant availability of good/service
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+17
+
+Three Notions in a Service
+Operation
+
+3. SERVICE DELIVERY SYSTEM
+The method of producing and
+delivering the service to the customer.
+- How are orders taken?
+- How is service provided?
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+18
+
+THE
+CHALLENGE
+OF
+SERVICE
+OPERATIONS MANAGEMENT IS TO
+DEVISE A SERVICE DELIVERY SYSTEM
+THAT
+SUPPORTS
+THE
+SERVICE
+CONCEPT
+AND
+MAINTAINS
+THE
+DESIGNATED SERVICE LEVELS.
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+19
+
+Thinking Challenge
+Consider McDonald’s
+restaurants. Fact #1:
+Franchisees of McDonald’s
+have to go to ‘Hamburger U.’
+They protest, ‘But, I’ve been in
+the restaurant business 20
+years – I know the restaurant
+business!’ ‘Yes, but you don’t
+know OUR business.’
+
+McDonald’s
+over 95 billion served
+
+© 1984-1994 T/Maker Co.
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+20
+
+Thinking Challenge
+Fact #2: A typical McDonald’s
+restaurant is run by unskilled
+teenagers, whose mothers
+can’t even get them to make
+their beds in the morning.
+What do these facts & your
+own experiences suggest
+about McDonald’s operations?
+
+McDonald’s
+over 95 billion served
+
+© 1984-1994 T/Maker Co.
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+21
+
+Answer
+•
+
+•
+
+•
+
+McDonald’s is not in the business of selling
+haute cuisine, but ‘fuel’ – a standardized
+product.
+The new franchisee has to learn the McDonald’s
+production system – a typical assembly line.
+An assembly line requires low labor skills, but
+high mechanization. Hence, unskilled teenagers
+are used.
+
+DO NOT DISTRIBUTE AND
+PHOTOCOPY
+
+Process Planning
+
+22
+
+

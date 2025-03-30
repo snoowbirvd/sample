@@ -1,0 +1,204 @@
+CAPACITY
+PLANNING
+
+CAPACITY – is the throughput, or the
+number of units a facility can hold, receive,
+store or produce in a given time.
+DESIGN CAPACITY – is the maximum
+theoretical output of a system in a given
+period under ideal conditions.
+EFFECTIVE CAPACITY – is the capacity a
+firm expects to achieve given the current
+operating constraints.
+
+PROF. MARYROSE MAGDALENA
+UB – CBA Faculty
+
+Two measures of system performance
+that are particularly useful:
+• UTILIZATION – the percent of design
+capacity actually achieved.
+UTILIZATION = ACTUAL OUTPUT / DESIGN CAPACITY
+
+• EFFICIENCY – percent
+of
+effective capacity actually
+achieved.
+EFFICIENCY = ACTUAL OUTPUT / EFFECTIVE CAPACITY
+
+SAMPLE PROBLEM
+1
+Sarah James Bakery has a plant for processing Deluxe
+breakfast rolls and wants to better understand its
+capability. Determine the design capacity, utilization, and
+efficiency for this plant when producing this Deluxe roll.
+APPROACH: Last week the facility produced 148,000
+rolls. The effective capacity is 175,000 rolls. The
+production line operates 7 days per week, with three 8hour shifts per day. The line was designed to process the
+nut-filled, cinnamon-flavored Deluxe roll at a rate of 1,200
+per hour. The firm first computes the design capacity and
+then uses the equation to determine the utilization and
+efficiency.
+
+SAMPLE PROBLEM 1
+SOLUTION:
+
+DESIGN CAPACITY = (7 days x 3 shifts x 8 hours) x
+(1,200 rolls per hour)
+= 201,600 rolls
+UTILIZATION = Actual Output / Design Capacity
+= 148,000 / 201,600
+= 73.4%
+EFFICIENCY = Actual Output / Effective Capacity
+= 148,000 / 175,000
+= 84.6%
+
+EXPECTED OUTPUT – sometimes referred
+to as rated capacity. With a knowledge of
+effective capacity and efficiency, a manager
+can find the expected output of a facility.
+EXPECTED OUTPUT = (EFFECTIVE CAPACITY)(EFFICIENCY)
+
+SAMPLE PROBLEM 2
+The manager of Sarah James Bakery now needs to
+increase production of the increasingly popular Deluxe roll.
+To meet this demand, she will be adding a second
+production line.
+APPROACH: The manager must determine the expected
+output of this second line for the sales department.
+Effective capacity on the second line is the same as on the
+first line, which is 175,000 Deluxe rolls. The first line is
+operating at an efficiency of 84.6% as computed in the
+previous sample problem. But, output on the second line
+will be no more than 75%. What is the expected output?
+
+SAMPLE PROBLEM 2
+
+SOLUTION:
+EXPECTED OUTPUT = (Effective Capacity)(Efficiency)
+= (175,000)(75%)
+
+= 131,250 rolls
+
+CAPACITY
+CONSIDERATIONS
+
+• Forecast demand accurately
+• Understand the technology and
+capacity increments
+• Find the optimum operating
+size or volume
+• Build for change
+
+MANAGING DEMAND
+• Demand exceeds capacity
+• Capacity exceeds demand
+• Adjusting to seasonal demands
+
+TACTICS FOR MATCHING
+CAPACITY TO DEMAND
+1. Making staffing changes
+2. Adjusting equipment
+3. Improving
+processes
+to
+increase
+throughput
+4. Redesigning products to facilitate more
+throughput
+5. Adding process flexibility to better meet
+changing product preferences
+6. Closing facilities
+
+DEMAND MANAGEMENT – can often be
+handled with appointments, reservations, or
+a first-come, first-served rule.
+CAPACITY
+MANAGEMENT
+–
+when
+managing demand is not feasible, then
+managing capacity through changes in fulltime, temporary, or part-time staff may be an
+option. This is the approach in many
+services.
+
+BOTTLENECK
+ANALYSIS
+
+CAPACITY
+ANALYSIS
+–
+involves
+determining the throughput capacity of
+workstations in a system and ultimately the
+capacity of the entire system.
+BOTTLENECK – is an operation that is the
+limiting factor or constraint. It refers to the
+literal neck of a bottle that constrains flow or,
+in the case of a production system,
+constrains throughput.
+
+PROCESS TIME OF A STATION – time to
+produce a given number of units at the
+workstation
+PROCESS TIME OF A SYSTEM – time of the
+longest process in the system, which is
+defined as the process time of the bottleneck.
+PROCESS CYCLE TIME – time it takes for a
+unit product to go through the entire empty
+system from start to finish.
+
+STATION
+ASSEMBLY
+LINE
+
+Box
+= Operation
+Triangle = Inventory
+Arrows = Precedence Relationships
+
+PROCESS TIME OF A STATION = 2,2,4,24,5,8,6
+PROCESS TIME OF A SYSTEM = 24 minutes
+PROCESS CYCLE TIME
+•X-ray exam: 2+2+4+5+8+6 = 27 minutes
+•Cleaning: 2+2+4+24+8+6 = 46 minutes
+
+THEORY OF
+CONSTRAINTS
+
+THEORY OF CONSTRAINTS (TOC) – is a
+body of knowledge that deals with anything
+that limits or constrains an organization’s
+ability to achieve its goals. Constraints can be:
+•Physical (Process or Personnel Availability,
+Raw Materials, Supplies)
+•Non-Physical (Procedures, Morale, Training)
+
+TOC FIVE-STEP PROCESS
+1. Identify the constraints.
+2. Develop
+a
+plan for overcoming
+the identified constraints.
+3. Focus resources on accomplishing Step 2.
+4. Reduce
+the effects
+of the
+constraints by
+offloading work or by
+expanding capability.
+5. When one set of constraints is overcome,
+go back to Step 1 and identify new
+constraints.
+
+References
+Tristan H. Macapanpan, MSC 525M COURSE
+MATERIALS: Soft copy of other course materials
+(Powerpoint lectures, cases, readings, and videos) and
+hard copies of some readings, 2000
+Heizer, Jay H., et al., Operations Management:
+Sustainability and Supply Chain Management, 11th
+Edition, Pearson, 2014
+Acknowledgement: Ms. Mary Rose Magdalena, MBA
+
+

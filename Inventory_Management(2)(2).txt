@@ -1,0 +1,565 @@
+MODULE 6
+INVENTORY MANAGEMENT AND CONTROL
+
+After reading this module, the learner should be able to:
+1.
+2.
+3.
+4.
+5.
+
+identify the advantages, disadvantages, and costs of holding inventory;
+explain the basic tactics for reducing inventories in supply chains;
+determine the items deserving most attention and tightest inventory control;
+calculate the economic order quantity and apply it to various situations;
+determine the order quantity and reorder point for a continuous review inventory control
+system;
+6. determine the review interval and target inventory level for a periodic review inventory
+control system; and
+7. define the key factors that determine the appropriate choice of an inventory system.
+INTRODUCTION
+The amount of material, a company has in stock at a specific time is known as inventory or in
+terms of money it can be defined as the total capital investment over all the materials stocked in
+the company at any specific time.
+Inventory may be in the form of,
+ raw material inventory
+ in process inventory
+ finished goods inventory
+ spare parts inventory
+ office stationary etc.
+As a lot of money is engaged in the inventories along with their high carrying costs, companies
+cannot afford to have any money tied in excess inventories. Any excessive investment in
+inventories may prove to be a serious drag on the successful working of an organization. Thus
+there is a need to manage our inventories more effectively to free the excessive amount of
+capital engaged in the materials.
+WHAT IS AN INVENTORY?
+Inventory refers to stock of goods, commodities, or other economic resources that are
+stored or reserved at any given period for future production or for meeting future demand.
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Inventory planning is the determination of the type and quantity of inventory items that
+would be required at future points for maintaining production schedules. Inventory planning is
+generally based on information from the past and also on factors that would arise in future.
+Inventory management is the function of directing the movement of goods through the
+entire manufacturing cycle from the requisition of raw materials to the inventory/stock of finished
+goods in such a manner as to meet the objectives of maximum customer service with minimum
+investment and efficiency.
+Inventory control is primarily concerned with the inventory cost control. The objectives of
+inventory control are:
+a. To minimize financial investments in inventories.
+b. To ensure availability of the supply of stock at all time.
+c. To allow flexibility in production scheduling.
+d. To ensure that the value of the material consumed is minimum.
+e. Reduce surplus stock.
+PURPOSE/FUNCTION OF INVENTORY (ADVANTAGES)
+1.
+2.
+3.
+4.
+5.
+6.
+
+Meet anticipated demand
+Decouple production & distribution (Permits constant production quantities)
+Take advantage of quantity discounts
+Provide hedge against inflation
+Protect against shortages
+Permit smooth operations through Work in Progress (WIP ) - (WIP means that making
+the product has started but not finished due to some reasons, beyond the control of the
+organization) (i.e., decouple operations)
+
+DISADVANTAGES OF INVENTORY
+1. Higher Cost (item, order and holding costs)
+2. Difficult to control
+3. Hides production problems
+TYPES OF INVENTORIES
+There are two types of inventories:
+1. Direct inventories – these include items which play a direct role in the manufacturing
+process and become an integral part of the finished goods, e.g. raw materials, work in
+progress inventories, finished goods inventories, spare parts.
+2. Indirect inventories – include those items necessary for manufacturing but do not
+become an integral component of the finished product e.g.
+a. Lubricants
+b. Machinery/equipment
+c. Labor
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+INVENTORY DECISIONS
+Inventory decisions include:
+
+
+
+How much of an item to order?
+When to replenish the inventory of the item?
+
+INVENTORY COSTS
+In order to control inventories appropriately, one has to consider all cost elements that are
+associated with the inventories. There are four such cost elements, which do affect cost of
+inventory.
+
+
+Unit cost: it is usually the purchase price of the item under consideration. If unit cost is
+related with the purchase quantity, it is called as discount price. Also known as item cost.
+
+
+
+Procurement (set-up) costs: This includes the cost of order preparation, tender
+placement, cost of postages, telephone costs, receiving costs, set up cost etc. Also
+known as purchasing, set-up, acquisition or ordering cost.
+
+
+
+Carrying (holding) costs: This represents the cost of maintaining inventories in the
+plant. It includes the cost of insurance, security, warehouse rent, taxes, interest on
+capital engaged, spoilage, breakage etc. It is also stated as the percentage of the unit
+value. Also referred as inventory holding cost.
+
+
+
+Stockout costs: This represents the cost of loss of demand due to shortage in supplies.
+This includes cost of loss of profit, loss of customer, loss of goodwill, penalty etc. Also
+referred as shortage cost.
+
+If one year planning horizon is used, the total annual cost of inventory can be expressed as:
+Total Annual Cost = Cost of items + Annual Procurement Cost + Annual Carrying
+Cost + Stockout Cost
+INVENTORY MANAGEMENT
+1. ABC ANALYSIS
+This is an analysis of a range of items that have different levels of significance and should be
+handled or controlled differently. It is a form of Pareto Analysis in which items (such as activities,
+customers, documents, inventory items, sales territories) are grouped into three categories (A, B
+and C) in order of their estimated importance. “A” items important, “B” items are moderately
+important and “C’ are marginally important.
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+•
+•
+•
+
+Divides on-hand inventory into 3 classes
+– A class, B class, C class
+Basis is usually annual Peso volume
+– Peso volume = Annual demand x Unit cost
+Policies based on ABC analysis
+– Develop class A suppliers more
+– Give tighter physical control of A items
+– Forecast A items more carefully
+
+Classifying Items as ABC
+•
+•
+•
+
+Class A items are those which the annual dollar volume is high. Although such items
+may represent only about 15% of the total inventory items, they represent 70% to 80% of
+the total dollar usage.
+Class B items are those inventory items of medium annual dollar volume. These items
+may represent about 30% of inventory items and 15% to 25% of the total value.
+Class C items are those with low annual dollar volume, which may represents only 5% of
+the annual dollar volume but about 55% of the total inventory.
+
+Example:
+You’re an inventory control supervisor for CBA. Classify the following items as A, B, or C.
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+To better understand ABC Analysis see table below:
+
+2. ECONOMIC ORDER QUANTITY (EOQ)
+This is the ordering quantity which minimizes the balance of cost between inventory holding
+costs and ordering costs. It is based on the following assumptions:
+1. A known constant stock holding cost.
+2. A known constant ordering cost.
+3. The rate of demand is known (is deterministic).
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+4.
+5.
+6.
+7.
+8.
+
+A known constant price per unit.
+Inventory replenishment is done instantaneously.
+No stock-out is allowed.
+Quantity discounts are not allowed – purchase price is constant.
+Lead time is known and fixed.
+
+EOQ answers the decision: How much of an item to order?
+EOQ Model
+
+The objective of inventory management is to minimize the total annual inventory cost. A
+simplified graphical presentation in which cost of items, procurement cost and carrying cost
+are depicted is shown in Figure 1.
+It can be seen from the figure that large values of order quantity Q result in large carrying
+cost. Similarly, when order quantity Q is large, fewer orders will be placed and procurement
+cost will decrease accordingly. The total cost curve indicates that the minimum cost point
+lies at the intersection of carrying cost and procurement cost curves.
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+EOQ Variables
+Q* – economic order quantity or optimal no. of units per order to minimize total cost
+D –annual demand requirement (units per year)
+S –ordering / setup cost
+H – Holding / carrying cost
+P –unit cost of product
+EOQ Formula
+
+where:
+Q = Order quantity
+D = Annual Demand
+S = Ordering/setup cost
+H= Holding/carrying cost
+P = Unit cost of product
+d = Demand per day
+L = Lead time in days
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Example
+Sharp, Inc., a company that markets painless needles to hospitals, would like to reduce its
+inventory cost by determining the optimal number of hypodermic needles to obtain per
+order. The annual demand is 1000 units; the ordering cost is $10 per order; the carrying cost
+per unit per year is $0.5; and the unit price of product is $10. The number of working days
+per year is 250 days. In order to minimize the annual total cost, determine the following:
+a. How many hypodermic needles should be ordered each time?
+b. How many orders should be placed per year?
+c. What is the expected time between orders?
+d. How much is the optimal annual total inventory cost?
+Solution:
+a. Economic Order Quantity
+Given:
+D = 1,000 units
+S = $10 per order
+H = $0.50 per unit per year
+
+Q* =
+
+2DS =
+H
+
+2(1,000)(10)
+=
+0.50
+
+b. Expected number of orders =
+
+40,000 = 200 units
+
+N = Demand =
+Order quantity
+= 1,000
+200
+
+D
+Q*
+
+= 5 orders per year
+c. Order Cycle Time
+
+=
+
+Number of working days / year
+N
+
+=
+
+250
+5
+
+=
+
+50 days between orders
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+d. Optimal Annual Total Inventory Cost
+Total Annual Cost
+
+=
+
+Setup cost + Holding cost
+
+=
+=
+=
+=
+=
+e. Optimal Total Annual Cost:
+Total Annual Cost
+
+=
+
+(5)($10) + (100)($0.50)
+$50 + $50
+$100
+
+Setup Cost + Holding Cost + Product Cost
+
+=
+=
+=
+=
+=
+
+(5)($10) + (100)($0.50) + (1000)($10)
+$50 + $50 + $10,000
+$10,100
+
+REORDER POINT (ROP)
+While EOQ answers the “how much” question, the reorder point (ROP) tells “when to order”.
+This is the minimum level of on-hand inventory that triggers a replenishment.
+Lead time (L) is the time between placing and receiving an order.
+To determine the ROP,
+ROP = (demand per day) x (Lead time for a new order in days)
+=dxL
+where:
+d = demand per year / number of working days in a year
+Example:
+An apple distributor has a demand for 8,000 iPods per year. The firm operates a 250-day
+working year. On average, delivery of an order takes 3 working days. What is the reorder
+points (ROP)?
+Solution:
+Given:
+D = 8,000 iPods per year
+250 working day per year
+Lead time for orders = 3 working days
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+d= Demand per year
+No. of working days in a year
+
+ROP
+
+=
+=
+=
+
+= 8,000 / 250
+= 32 units
+dxL
+32 units per day x 3 days
+96 units
+
+SAFETY STOCK (SS)
+Safety stock is used when demand is not constant or certain. It is defined as extra units of
+inventory carried as protection against possible stockouts. Safety stock is used to achieve a
+desired service level and avoid stock outs.
+ROP = d x L + ss
+
+Annual stockout costs = the sum of the units short x the probability x the stockout
+cost/unit x the number of orders per year
+Example:
+ROP = 50 units
+Orders per year = 6
+
+Stockout cost = $40 per unit
+Carrying cost = $5 per unit per year
+
+What if the probability of having safety stock for 20 is 0%, for 10 is 10% and 0 is 20%.
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Solution:
+
+3. PRODUCTION ORDER QUANTITY MODEL
+
+•
+•
+•
+•
+
+Answers how much to order & when to order
+Allows partial receipt of material
+– Other EOQ assumptions apply
+Suited for production environment
+– Material produced, used immediately
+– Provides production lot size
+Lower holding cost than EOQ model
+
+POQ Model: Inventory Levels
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+POQ Model Equations
+
+Example:
+
+You’re a production planner for ABC Tools. ABC Tools makes 30,000 screw drivers per
+year. Demand is 100 screw drivers per day & production is 300 per day. Production
+setup cost is $150 per order. Carrying cost is $1.50 per screw driver. What
+is the optimal lot size?
+Solution
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+4. QUANTITY DISCOUNT MODEL
+
+•
+•
+•
+
+Answers how much to order & when to order
+Allows quantity discounts
+– Reduced price when item is purchased in larger quantities
+– Other EOQ assumptions apply
+Trade-off is between lower price & increased holding cost
+
+Quantity discounts are price reductions designed to induce large orders. If quantity
+discounts are offered, the buyer must weigh the potential benefits of reduced purchase
+price and fewer orders against the increase in carrying costs caused by higher average
+inventories. Hence, the buyer's goal in this case is to select the order quantity that will
+minimize total costs, where total costs the sum of carrying cost, ordering cost
+and purchase cost.
+Formula:
+
+Total cost = Setup cost + Holding cost + Product cost
+
+Example:
+
+Wohl’s Discount Store tocks toy race car. Recently, the store has been given a quantity
+discount schedule was shown in the next slide. Thus, the normal cost for the toy race
+cars is ₱5.00. For the orders between 1,000 and 1,999 units, the unit cost drops to
+₱4.80; for orders of 2,000 or more units, the unit cost is only ₱4.75. Furthermore,
+ordering cost is ₱49.00 per order, annual demand is 5,000 race cars and inventory
+carrying charge, as percent of cost, I, is 20%, or .20. What order quantity will minimize
+the total inventory cost?
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Solution:
+
+5. FIXED-PERIOD MODEL
+
+•
+•
+
+Answers how much to order
+Orders placed at fixed intervals
+– Inventory brought up to target amount
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+•
+•
+
+– Amount ordered varies
+No continuous inventory count
+– Possibility of stockout between intervals
+Useful when vendors visit routinely
+– Example: P&G rep. calls every 2 weeks
+
+6. CYCLE COUNTING
+Items are counted and records updated on a periodic basis. This is often used with ABC
+analysis to determine cycle.
+
+Advantages
+
+
+
+
+
+
+Eliminates shutdowns and interruptions
+Eliminates annual inventory adjustment
+Trained personnel audit inventory accuracy
+Allows causes of errors to be identified and corrected
+Maintains accurate inventory records
+
+Example:
+
+5,000 items in inventory, 500 A items, 1,750 B items, 2,750 C items
+Policy is to count A items every month (20 working days), B items every quarter (60
+days), and C items every six months (120 days)
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Solution:
+
+Other Resources:
+
+
+
+
+
+
+
+
+
+
+Read the article by Francesca Nicasioabout “The Future of Inventory Management” at
+https://www.vendhq.com/blog/inventory-management-trends/
+Read the article by Bridget McCreaabout “Six Warehouse Management Trends to Watch
+in 2019” at
+https://www.logisticsmgmt.com/article/six_warehouse_management_trends_to_watch_in
+_2019
+Watch a Youtube Videos on the use of Spreadsheets on Inventory Management at
+o https://www.youtube.com/watch?v=Hlj4iENANnQ
+o https://www.youtube.com/watch?v=nAcNgmYPA-4
+Watch a Youtube Videos about the “Computation of EOQ and ROP” at
+o https://www.youtube.com/watch?v=AYpjPWmlyHM
+o https://www.youtube.com/watch?v=ru-r5kMGwko
+https://www.youtube.com/watch?v=2kKRgtzcses
+
+References:
+Heizer, J, H., & Barry R. (2014), Operations Management: Sustainability and Supply Chain
+Management, 11th Edition, Pearson
+Macapanpan, T. H. (2011), MSC 525M COURSE MATERIALS: Soft copy of other course
+materials (Powerpoint lectures, cases, readings, and videos) and hard copies of some readings)
+Stevenson, William (2018), Project Management; the managerial process 7 th ed.
+Stevenson, William (2018), Operations Management 13 th Edition
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+Zani, Rosliza (2018), Operation management
+Krajewski, Lee J. (2016) Operation management: sustainability and supply chain management
+12th ed.
+Verma, A.P. (2016). Industrial Engineering and Management
+Acknowledgement:
+Engr. Rosa Maria C. Cayabyab, CPA
+Ms. Maryrose Elizabeth I. Magdalena, MBA
+Engr. Joan M. Villanueva, MSIEM
+
+Address: Hilltop Road, Brgy. Kumintang Ibaba, Batangas City 4200, Philippines
+Telephone Numbers: +63 43 723 1446 | 980 0041
+Website: www.ub.edu.ph
+
+

@@ -1,0 +1,2694 @@
+
+
+
+
+the process of organizing, choosing and
+timing resource usage to carry out all the
+activities necessary to produce the desired
+outputs at the desired times, while satisfying
+a large number of time and relationship
+constraints among the activities and the
+resources (Morton and Pentico, 1993).
+Schedule specifies the time each job starts
+and completes on each machine, as well as
+any additional resources needed.
+
+
+
+pertains to establishing both the timing and
+use of resources within an organization.
+Under the operations function (both
+manufacturing and services), scheduling
+relates to use of equipment and facilities, the
+scheduling of human activities, and receipt
+of materials.
+
+
+
+
+
+
+
+
+
+Routing: The operations to be performed, their
+sequence, the work centers, & the time
+standards
+Bottleneck: A resource whose capacity is less
+than the demand placed on it
+Due date: When the job is supposed to be
+finished
+Slack: The time that a job can be delayed & still
+finish by its due date
+Queue: A waiting line
+
+Forward Scheduling
+starts processing when
+a job is received
+
+Today
+
+Due Date
+
+begin scheduling the
+job’s last activity so that
+the job is finished on
+due date
+
+Backward Scheduling
+
+Today
+
+Due Date
+
+
+
+Qualitative factors
+◦
+◦
+◦
+
+
+
+Number & variety of jobs
+Complexity of jobs
+Nature of operations
+
+Quantitative criteria
+◦
+◦
+◦
+◦
+
+Average completion time
+Utilization (% of time facility is used)
+WIP inventory (average # jobs in system)
+Customer waiting time (average lateness)
+
+ProcessFocused
+
+Variety of
+Methods
+
+RepetitiveFocused
+
+ProductFocused
+
+Level Use
+Methods
+
+
+
+
+
+
+
+
+High variety, low volume systems
+Products made to order
+Products need different materials & processing
+Complex production planning & control
+Production planning aspects
+◦ Shop loading – defined a functional organization whose
+department on work centers are organized around particular types
+of equipment or operations.
+◦
+
+Job sequencing - a simple ordering of the jobs
+
+Forecast &
+Firm Orders
+
+Aggregate
+Production
+Planning
+
+Material
+Requirements
+Planning
+
+Master
+Production
+Scheduling
+
+Resource
+Availability
+
+No, modify CRP, MRP, or MPS
+Capacity
+Requirements
+Planning
+
+Realistic?
+
+Yes
+
+Shop
+Floor
+Schedules
+
+1
+Gr Gross
+Requirements
+Scheduled Receipts
+Available
+
+2
+
+3
+
+Release
+Order
+Yes
+
+100
+
+Priority &
+Capacity OK?
+
+Net Requirements
+Planned Order Rec.
+Planned Order Rel. 100
+
+No
+Hold
+Release
+
+
+
+
+Assigning jobs to work centers
+Considerations
+◦
+◦
+
+Job priority (e.g., due date)
+Capacity
+
+Work center hours available
+ Hours needed for job
+Approaches
+
+
+
+
+◦
+◦
+
+Gantt charts (load & scheduling)
+Assignment method
+
+
+
+
+
+
+
+
+
+
+
+Named for Henry Gantt, a management pioneer
+of the early 1900s. He proposed the use of a
+visual aid for loading and scheduling.
+Used to organize and clarify actual or intended
+use of resources within a time framework.
+Generally, time is represented horizontally with
+scheduled resources listed vertically.
+Managers are able to use the Gantt chart to
+make trial-and-error schedules to get some
+sense of the impact of different arrangements.
+The most widely used scheduling tools
+
+
+
+
+
+
+
+
+
+
+
+Named for Henry Gantt, a management pioneer
+of the early 1900s. He proposed the use of a
+visual aid for loading and scheduling.
+Used to organize and clarify actual or intended
+use of resources within a time framework.
+Generally, time is represented horizontally with
+scheduled resources listed vertically.
+Managers are able to use the Gantt chart to
+make trial-and-error schedules to get some
+sense of the impact of different arrangements.
+The most widely used scheduling tools
+
+
+
+
+
+
+
+
+Shows relative workload in facility
+Displays the loading and idle times for machines
+or departments; this shows when certain jobs are
+scheduled to start and finish and where idle time
+can be expected.
+Help the scheduler redo loading
+assignments for better utilization of the
+work centers.
+
+Disadvantages
+◦
+◦
+
+Does not account for unexpected events
+Must be updated regularly
+
+Work Ctr
+
+M
+
+T
+
+W
+
+Th
+
+F
+
+Sht. Metal Job A
+Job F
+Mechanical
+Job D
+Job G
+Electrical
+Job B
+Job H
+Painting
+Job C
+Job E
+Job I
+
+
+
+
+
+
+Use to monitor job progress
+On this type of Gantt chart, the vertical axis
+shows the orders or jobs in progress while
+the horizontal axis represents time.
+A quick glance at the chart reveals which jobs
+are on schedule and which jobs are on time.
+
+Job
+
+Day
+S
+
+M
+
+T
+
+W
+
+T
+
+F
+
+Job A
+Job B
+
+Repair
+
+Job C
+
+Today
+
+S
+
+Order
+release
+
+Job Packet
+Job XYZ
+
+Which job
+do I run
+next?
+
+Dispatch List
+Order Part Due Qty
+XYZ 6014 123 100
+ABC 6020 124 50
+Production Control
+
+Production
+
+
+
+
+Specifies order jobs will be worked
+Sequencing rules
+◦
+◦
+◦
+◦
+◦
+◦
+
+First come, first served (FCFS)
+Shortest processing time (SPT)
+Earliest due date (EDD)
+Longest processing time (LPT)
+Critical ratio (CR)
+Johnson’s rule
+
+
+
+
+
+
+Process first job to arrive at a work center first
+Average performance on most scheduling
+criteria
+Appears ‘fair’ & reasonable to customers
+◦ Important for service organizations
+ Example: Restaurants
+
+
+
+
+
+
+Process job with shortest processing time first
+Best rule for minimizing:
+◦ Completion time (flow time)
+◦ WIP inventory (average # jobs in system)
+Disadvantage: Longer jobs get pushed back in
+sequence
+◦ Bad for customer relations
+
+
+
+
+
+
+Process job with earliest due date first
+Widely used by many companies
+◦ If due dates important
+◦ If MRP used
+ Due dates updated by each MRP run
+Performs poorly on many scheduling criteria
+
+
+
+Ratio of time remaining to work time remaining
+Time remaining
+Work days remaining
+Due date - Today' s date
+
+Work (lead) time remaining
+
+CR 
+
+
+
+
+Process jobs with small CR first
+Performs well on average lateness
+
+You’re a production
+control supervisor at
+Lane Furniture.
+Five
+jobs arrive in your dept.
+in the order shown.
+Today is day 100.
+Sequence
+the
+jobs
+using: FCFS, EDD,
+SPT, LPT, & CR.
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+(Days)
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+FCFS
+
+EDD
+
+SPT
+
+LPT
+
+CR
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+(Days)
+Sequence
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+EDD
+(Days)
+Sequence
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+E
+A
+B
+D
+C
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+SPT
+(Days)
+Sequence
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+E
+A
+D
+C
+B
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+LPT
+(Days)
+Sequence
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+B
+C
+D
+A
+E
+
+A : CR 
+B : CR 
+C : CR 
+D : CR 
+E : CR 
+
+105  100
+2
+108  100
+8
+112  100
+6
+110  100
+4
+104  100
+1
+
+
+
+
+
+
+
+5
+ 2 .5
+2
+8
+ 1 .0
+8
+12
+ 2 .0
+6
+10
+ 2 .5
+4
+4
+ 4 .0
+1
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+CR
+(Days)
+Sequence
+2
+8
+6
+4
+1
+
+105
+108
+112
+110
+104
+
+B (1.0)
+C (2.0)
+A (2.5)
+D (2.5)
+E (4.0)
+
+Days
+20
+
+FCFS
+
+E
+
+Days
+20
+10
+0
+E
+
+B
+
+Days
+20
+10
+0
+B
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+D
+
+SPT
+
+A
+
+D
+
+C
+
+Wait time Process time
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+C
+
+D
+
+Days
+20
+
+FCFS
+
+EDD
+
+Days
+20
+10
+10
+0
+0
+E A Bof D
+A jobs
+B done
+C D in E21 days regardless
+All
+ruleC
+Days
+20
+10
+0
+E
+
+SPT
+
+A
+
+D
+
+C
+
+B
+
+Days
+20
+10
+0
+B
+
+Wait time Process time
+
+LPT
+
+C
+
+D
+
+A
+
+E
+
+Days
+20
+
+FCFS
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+D
+
+E
+
+Days
+20
+10
+0
+E
+
+SPT Least wait time
+Days
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+20
+10
+0
+A
+
+D
+
+C
+
+B
+
+B
+
+Wait time Process time
+
+C
+
+D
+
+Days
+20
+
+FCFS
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+SPT
+
+A
+
+D
+
+D
+
+E
+
+Days
+20
+10
+0
+E
+
+Most wait time
+
+C
+
+B
+
+Days
+20
+10
+0
+B
+
+Wait time Process time
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+C
+
+D
+
+Days
+20
+
+FCFS
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+SPT
+
+A
+
+D
+
+Days
+20
+10
+0
+E
+E done
+3Djobs
+
+in 7 days
+
+C
+
+B
+
+Days
+20
+10
+0
+B
+
+Wait time Process time
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+C
+
+D
+
+Days
+20
+
+FCFS
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+SPT
+
+A
+
+D
+
+Days
+20
+10
+0
+E
+D
+E done
+1 job
+
+in 8 days
+
+C
+
+B
+
+Days
+20
+10
+0
+B
+
+Wait time Process time
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+C
+
+D
+
+Days
+20
+
+FCFS
+
+10
+0
+A
+Days
+20
+10
+0
+E
+
+B
+
+C
+
+SPT
+
+A
+
+D
+
+D
+E
+‘World
+
+Days
+20
+10
+0
+E
+
+Champion’
+
+C
+
+B
+
+Days
+20
+10
+0
+B
+
+Wait time Process time
+
+EDD
+
+A
+
+B
+
+D
+
+C
+
+A
+
+E
+
+LPT
+
+C
+
+D
+
+You’re a production
+control supervisor.
+Although you suspect
+that SPT is best for
+sequencing jobs in
+your dept, you want
+to evaluate EDD using
+the scheduling
+criteria. Today is day
+100.
+
+Job
+A
+B
+C
+D
+E
+
+Work Due Date
+(Days)
+2
+8
+6
+4
+1
+
+Scheduling
+
+105
+108
+112
+110
+104
+
+Job
+
+Proc
+Time
+
+Flow Due Lateness
+Time Date
+
+Total
+
+Scheduling
+
+Job
+E
+A
+D
+C
+B
+Total
+
+Proc
+Time
+
+Flow Due Lateness
+Time Date
+
+Jobs in order of sequence
+
+Scheduling
+
+Job
+E
+A
+D
+C
+B
+Total
+
+Proc
+Time
+1
+2
+4
+6
+8
+
+Flow Due Lateness
+Time Date
+
+Scheduling
+
+Job
+E
+A
+D
+C
+B
+Total
+
+Proc
+Time
+1
+2
+4
+6
+8
+
+Flow Due Lateness
+Time Date
+104
+105
+110
+112
+108
+
+Scheduling
+
+Job
+
+Proc
+Time
+E
+1
+A
+2
+D
+4
+C
+6
+B Flow 8time
+Total
+
+Flow Due Lateness
+Time Date
+1
+104
+105
+110
+112
+108 time + Wait time
+= Process
+=1+0=1
+
+Scheduling
+
+Job
+
+Proc
+Time
+E
+1
+A
+2
+D
+4
+C
+6
+B Flow 8time
+Total
+
+Flow
+Time
+1
+3
+
+Due Lateness
+Date
+104
+105
+110
+112
+108 time + Wait time
+= Process
+=2+1=3
+
+Scheduling
+
+4
+6
+
+Job
+
+Proc
+Time
+1
+2
+4
+6
+8
+
+Flow
+Time
+1
+3
+7
+
+Due Lateness
+Date
+104
+105
+110
+112
+108
+
+E
+A
+D
+C
+B
+TotalFlow time = Process time + Wait time
+=4+3=7
+Scheduling
+
+Job
+
+Proc
+Time
+1
+2
+4
+6
+8
+
+Flow
+Time
+1
+3
+7
+13
+
+Due Lateness
+Date
+104
+105
+110
+112
+108
+
+E
+A
+D
+C
+B
+Total
+Flow time = Process time + Wait time
+= 6 + 7 = 13
+Scheduling
+
+Job
+Proc Flow Due Lateness
+Time
+Time time
+Date+ Wait time
+Flow time
+= Process
+E
+1= 8 + 131 = 21104
+A
+2
+3
+105
+D
+4
+7
+110
+C
+6
+13 112
+B
+8
+21 108
+Total
+
+Scheduling
+
+Job
+
+Proc Flow Due Lateness
+Time Time Date
+E
+1
+1
+104
+0
+A
+2
+3
+105
+D
+4
+7
+110
+Job starts
+C Today6 is day13100.112
+day later
+B today8& finishes
+21 1108
+Total(flow time) on day 101. Not late.
+
+Scheduling
+
+Job
+
+Proc Flow Due Lateness
+Time Time Date
+E
+1
+1
+104
+0
+A
+2
+3
+105
+0
+D
+4
+7
+110
+C
+6
+13 112
+B Today8 is day21100.108
+Job finishes
+Total3 days (flow time) from now on
+day 103. Not late.
+Scheduling
+
+Job
+
+Proc
+Time
+1
+2
+4
+6
+8
+
+Flow
+Time
+1
+3
+7
+13
+21
+
+Due Lateness
+Date
+104
+0
+105
+0
+110
+0
+112
+108
+
+E
+A
+D
+C
+B
+TotalToday is day 100. Job finishes
+7 days (flow time) from now on
+day 107. Not late.
+Scheduling
+
+Job
+
+Proc Flow Due Lateness
+Time Time Date
+Today is day
+E 100. 1Job finishes
+1
+104
+0
+13 days (flow
+on
+A time)
+2 from now
+3
+105
+0
+day 113. Job
+D is 1 4day late.
+7
+110
+0
+C
+6
+13 112
+1
+B
+8
+21 108
+Total
+
+Scheduling
+
+Job
+
+Proc Flow Due Lateness
+Time Time Date
+1 Job1finishes
+104
+0
+Today E
+is day 100.
+A (flow time)
+2
+3 now
+105on
+0
+21 days
+from
+D Job is4 13 days
+7 late.
+110
+0
+day 121.
+C
+6
+13 112
+1
+B
+8
+21 108
+13
+Total
+
+Scheduling
+
+Job
+E
+A
+Sum
+D
+C
+B
+Total
+
+Proc
+Time
+1
+2
+4
+6
+8
+21
+
+Flow
+Time
+1
+3
+7
+13
+21
+45
+
+Due Lateness
+Date
+104
+0
+105
+0
+110
+0
+112
+1
+108
+13
+14
+
+Scheduling
+
+Flow time
+45
+
+Avg. completion time 
+
+ 9.0 days
+# Jobs
+
+5
+
+Process time
+21
+
+Utilization 
+
+ 46.7%
+ Flow time 45
+
+Avg. #
+
+Flow time
+
+jobs in system 
+
+ Process time
+
+45
+ 2.14
+21
+
+Late time
+14
+
+Avg. job lateness =
+
+ 2.8 days
+# Jobs
+
+5
+
+Scheduling
+
+Job
+E
+A
+B
+D
+C
+Total
+
+Proc
+Time
+1
+2
+8
+4
+6
+21
+
+Flow
+Time
+1
+3
+11
+15
+21
+51
+
+Due Lateness
+Date
+104
+0
+105
+0
+108
+3
+110
+5
+112
+9
+17
+
+How was this arrived at?
+Scheduling
+
+Flow time
+51
+
+Avg. completion time 
+
+ 10.2 days
+# Jobs
+
+5
+
+Process time
+21
+
+Utilization 
+
+ 41.2%
+51
+ Flow time
+Flow time
+51
+
+Avg. # jobs in system 
+
+ 2.43
+ Process time 21
+Late time
+17
+
+Avg. job lateness =
+
+ 3.4 days
+# Jobs
+
+5
+
+Scheduling
+
+Used to sequence N jobs through 2 machines in
+the same order
+Johnson’s Rule – a technique for minimizing
+makespan in a two-stage, unidirectional
+process
+
+
+Step 1 – List the jobs and the processing time for each
+activity
+Step 2 – Find the shortest activity processing time
+among the jobs not yet scheduled
+1. If the shortest Processing time is for a 1st activity, schedule
+that job in the earliest available position in the job
+sequence
+2. If the shortest processing time is for 2nd activity, schedule
+that job in the last available position in the job sequence
+3. When you schedule a job eliminate it from further
+consideration
+
+Step 3 – Repeat step 2 until you have put all activities
+for the job in the schedule
+
+List jobs &
+activity times
+
+Machine?
+
+2
+
+Schedule
+LAST
+
+1
+Select job with
+shortest time
+
+Schedule
+FIRST
+
+No
+
+Eliminate job
+from list
+
+Ties?
+Yes
+
+Break
+arbitrarily
+
+Jobs left?
+Yes
+
+No
+
+Stop
+
+You’re a production
+control supervisor at
+a tool & die shop.
+5 jobs must be
+processed on 2
+machines. Find the
+best sequence that
+will minimize the
+total completion
+time for these jobs.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+Sequence
+
+List jobs &
+activity times.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+Sequence
+
+Select job
+with shortest
+activity time:
+Job A.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+5
+B
+3
+Time is on Lathe
+C
+8
+(Machine 2) so
+D
+10LAST.
+sequence
+A
+E
+7
+
+2
+6
+4
+7
+12
+
+Sequence
+
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+5
+2
+B
+3
+6
+C
+8
+4
+D Eliminate
+10
+Job 7A
+E from7list.
+12
+
+Sequence
+
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+Sequence
+
+Select job
+withAshortest
+activity time:
+Job B.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+5
+2
+B
+3
+6
+C
+8
+4
+D
+10
+7
+E Time7is on Drill
+12
+(Machine 1) so
+sequence B FIRST.
+
+Sequence
+B
+
+A
+
+Job
+A
+B
+C
+D
+E
+
+Drill
+Hours
+
+Lathe
+Hours
+
+5
+2
+3
+6
+8
+4
+10
+7
+7
+12
+Eliminate Job B
+from list.
+
+Sequence
+B
+
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+Sequence
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+B
+
+Select job
+A shortest
+with
+activity time:
+Job C.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+A
+5
+2
+B
+3
+6
+C
+8
+4
+D
+10
+7
+Time is on Lathe
+E
+7
+12
+(Machine 2) so
+sequence C LAST.
+
+Sequence
+B
+
+C
+A
+
+Job
+A
+B
+C
+D
+E
+
+Drill
+Hours
+
+Lathe
+Hours
+
+5
+2
+3
+6
+8
+4
+10
+7
+7
+12
+Eliminate Job C
+from list.
+
+Sequence
+B
+
+C
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+Sequence
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+B
+
+Select job
+with shortest
+activity time:
+A
+TIE.
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+Sequence
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+B
+
+Break tie
+arbitrarily.
+Select Job D.
+A
+
+Job
+
+Drill
+Lathe
+Hours
+Hours
+Time is on Lathe
+A
+5
+2
+(Machine
+2) so
+B
+3
+6
+sequence
+D LAST.
+C
+8
+4
+D
+10
+7
+E
+7
+12
+
+Sequence
+B
+D
+C
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+Sequence
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+B
+
+Eliminate Job D
+from list.
+
+D
+C
+A
+
+Job
+
+Drill
+Hours
+
+Lathe
+Hours
+
+Sequence
+
+A
+B
+C
+D
+E
+
+5
+3
+8
+10
+7
+
+2
+6
+4
+7
+12
+
+B
+D
+C job
+Select
+withAshortest
+activity time:
+Job E.
+
+Job
+
+Drill
+Hours
+
+A
+5
+B
+3
+Time is on Drill
+C
+8
+(Machine 1) so
+D
+sequence
+E10
+FIRST.
+E
+7
+
+Lathe
+Hours
+
+Sequence
+
+2
+6
+4
+7
+12
+
+B
+E
+D
+C
+A
+
+Job
+A
+B
+C
+D
+E
+
+Drill
+Lathe Sequence
+Hours
+Hours
+Eliminate
+Job
+5
+2 E from B
+list. Since no jobs
+3
+6
+E
+are left, this is the
+8
+4
+D
+optimal
+sequence.
+10
+7
+C
+7
+12
+A
+
+Drill
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+Idle time
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Job B finished
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+Why this idle time in
+the lathe?
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Job E finished
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+C
+
+E
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+C
+
+Job D
+finished
+
+D
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+C
+
+A
+
+D
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+C
+
+D
+
+A
+
+Job C
+finished
+
+C
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill
+
+B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+C
+
+D
+
+A
+
+C
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Drill B
+
+E
+
+B
+
+Lathe
+
+0
+
+D
+
+E
+
+C
+
+D
+
+A
+
+Job A
+finished;
+same
+order
+
+C A
+
+10
+20
+30
+Cumulative Time (Hours)
+
+40
+
+Tristan H. Macapanpan, MSC 525M COURSE
+MATERIALS: Soft copy of other course materials
+(Powerpoint lectures, cases, readings, and videos)
+and hard copies of some readings
+
+Operations Scheduling by R. Anthony Inman
+http://www.referenceforbusiness.com/managem
+ent/Ob-Or/Operations-Scheduling.html
+Retrieved September 8, 2014
+
+Operations Management by R. Dan Reid &
+Nada R. Sanders 4th Edition © Wiley 2010
+www.csus.edu/indiv/b/blakeh/mgmt/.../OPM101Cha
+pter15_000.ppt Retrieved September 8, 2014.
+
+
